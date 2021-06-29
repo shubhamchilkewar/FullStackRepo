@@ -1,4 +1,4 @@
-package test;
+ package test;
 
 public class Payment {
  public String doPaymen(int accno ,double amount) {
